@@ -8,7 +8,7 @@ All wallpapers in this repository are licensed under [Creative Commons Attributi
 
 ## Wallpapers
 
-### [Safe Landing]
+### Safe Landing
 ![Thumbnail](./safe_landing/louisdurrant_safe_landing_thumb.jpg)
 
 Illustrated 2019, featured in KDE's Plasma.
@@ -16,7 +16,7 @@ Illustrated 2019, featured in KDE's Plasma.
 - [Full resolution (5120, ~4MB)](./safe_landing/louisdurrant_safe_landing_fullres.jpg)
 - [Compressed (1080p, ~2MB)](./safe_landing/louisdurrant_safe_landing_1080.jpg)
 
-### [Home]
+### Home
 ![Thumbnail](./home/louisdurrant_home_thumb.jpg)
 
 Illustrated 2026
