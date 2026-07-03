@@ -13,7 +13,7 @@ All wallpapers in this repository are licensed under [Creative Commons Attributi
 
 Illustrated 2019, featured in KDE's Plasma.
 
-- [Full resolution (5120, ~4MB)](./safe_landing/louisdurrant_safe_landing_fullres.jpg)
+- [Full resolution (5120x2880, ~4MB)](./safe_landing/louisdurrant_safe_landing_fullres.jpg)
 - [Compressed (1080p, ~2MB)](./safe_landing/louisdurrant_safe_landing_1080.jpg)
 
 ### Home
