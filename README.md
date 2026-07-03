@@ -1,6 +1,6 @@
 # Wallpapers
 
-A small collection of original wallpapers by Louis Durrant, free to download and share under Creative Commons.
+A small collection of original wallpapers by [Louis Durrant](https://louisdurrant.art), free to download and share under Creative Commons.
 
 ## License
 
